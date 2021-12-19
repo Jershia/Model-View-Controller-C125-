@@ -13,6 +13,16 @@
   * *Then we started the server.*
   * *Opened the postman and tested the API and classification model by sending an image as a form data to it using POST.**(Code is given below)**.*
 
+## Steps to create a prediction model
+
+ * *Import dependencies and libraries.*
+ * *Load the dataset.*
+ * *We split the data to train and test the model.*
+ * *We scale the data to make it of equal size.*
+ * *We fit the data to logistic regression model.*
+ * *We check the accuracy score.*
+ * *We do prediction of model.*
+
 ## Code is given below
 ### *Code for classifier model :*
 ![classifier py - C125 (MVC) - Visual Studio Code 19-12-2021 16_22_42](https://user-images.githubusercontent.com/74312429/146672420-52e30ff3-8221-4eb8-aaf1-4dd468e34e05.png)
